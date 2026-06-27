@@ -3,6 +3,16 @@
     <channel>
         <title>TunnelBar</title>
         <item>
+            <title>1.0.0-beta.3</title>
+            <pubDate>Fri, 26 Jun 2026 22:41:10 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://jclarke.github.io/TunnelBar-Releases/TunnelBar-1.0.0-beta.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jclarke/TunnelBar-Releases/releases/download/v1.0.0-beta.3/TunnelBar-1.0.0-beta.3.zip" length="3834867" type="application/octet-stream" sparkle:edSignature="N+y+RHTrcSLaXvAryIjjXg5ETqFu9RWv40pklu7H//K4Q1E3zjQceFSFebIvprZVVC1crEcG0UM/MBIJ4E5vAA=="/>
+        </item>
+        <item>
             <title>1.0.0-beta.2</title>
             <pubDate>Fri, 26 Jun 2026 21:19:56 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
