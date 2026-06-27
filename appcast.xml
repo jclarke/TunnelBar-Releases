@@ -3,6 +3,19 @@
     <channel>
         <title>TunnelBar</title>
         <item>
+            <title>1.0.0-beta.2</title>
+            <pubDate>Fri, 26 Jun 2026 21:19:56 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://jclarke.github.io/TunnelBar-Releases/TunnelBar-1.0.0-beta.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jclarke/TunnelBar-Releases/releases/download/v1.0.0-beta.2/TunnelBar-1.0.0-beta.2.zip" length="3764994" type="application/octet-stream" sparkle:edSignature="1jnTFubO3wrgl4B76bM7oNK5gn7KPM0cNbGBHdDTFcGA6nD2lhGX2lWy09wOyQAufLr9S40AGg0lHToaZ/ooDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jclarke/TunnelBar-Releases/releases/download/v1.0.0-beta.2/TunnelBar2-1.delta" sparkle:deltaFrom="1" length="13018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oy6A1a7OJwpA8TvLShsCljE0cdey17yOeTTrWz+rrUN9uAtgiJeqaESjAap5pNa88ZsVlM0Affet7u3XmlY8BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0-beta.1</title>
             <pubDate>Fri, 26 Jun 2026 18:36:34 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
@@ -10,7 +23,7 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://jclarke.github.io/TunnelBar-Releases/TunnelBar-1.0.0-beta.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jclarke/TunnelBar-Releases/releases/download/v1.0.0-beta.1/TunnelBar-1.0.0-beta.1.zip" length="3764966" type="application/octet-stream" sparkle:edSignature="19frX9WJlejmQWbJvKuHZK65fcBcYejNa8Cd8JrIFw6KuD5UaXgUbDADuglWSuhSos6as6AzNWFXiu8XDnV1AA=="/>
+            <enclosure url="https://github.com/jclarke/TunnelBar-Releases/releases/download/v1.0.0-beta.2/TunnelBar-1.0.0-beta.1.zip" length="3764966" type="application/octet-stream" sparkle:edSignature="19frX9WJlejmQWbJvKuHZK65fcBcYejNa8Cd8JrIFw6KuD5UaXgUbDADuglWSuhSos6as6AzNWFXiu8XDnV1AA=="/>
         </item>
     </channel>
 </rss>
